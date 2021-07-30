@@ -7,3 +7,6 @@ let Australian Dollar = Usd * 1.36
 let Usd = 0
 
 
+print("Welcome to the currency converter")
+Print("This console program will convert USD to Euros, Yen, British Pounds and Australian Dollars"
+)

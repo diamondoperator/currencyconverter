@@ -13,3 +13,8 @@ Print("This console program will convert USD to Euros, Yen, British Pounds and A
 print("------------------------------------------------------------------------------------------")
 print("Please enter the amount of United States Dollars you would like to convert: ")
 let Usd = input()
+print("$"+ Usd + " is equal to: ")
+print(Euro + "Euros")
+print(Yen + "Yen")
+print(Pounds + "British Pounds")
+print(Australian Dollar + "Australian Dollars")

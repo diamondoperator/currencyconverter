@@ -4,4 +4,6 @@ let Euro = Usd * 0.85
 let Yen = Usd * 110.08
 let Pounds = Usd * 0.72
 let Australian Dollar = Usd * 1.36
+let Usd = 0
+
 
